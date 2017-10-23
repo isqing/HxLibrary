@@ -1,10 +1,10 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library '
 
 android {
     compileSdkVersion 26
     buildToolsVersion "26.0.0"
     defaultConfig {
-        applicationId "com.hyphenate.easeui"
+//        applicationId "com.hyphenate.easeui"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
